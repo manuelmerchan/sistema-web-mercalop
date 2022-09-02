@@ -1,0 +1,152 @@
+[04-May-2022 12:00:12 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[10-Jun-2022 19:16:42 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[10-Jun-2022 19:16:43 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[10-Jun-2022 19:17:04 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[10-Jun-2022 19:17:05 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[10-Jun-2022 19:29:30 America/Guayaquil] PHP Warning:  A non-numeric value encountered in /home3/merjuri/public_html/app/guardar_iva.php on line 7
+[10-Jun-2022 19:29:40 America/Guayaquil] PHP Warning:  A non-numeric value encountered in /home3/merjuri/public_html/app/guardar_iva.php on line 7
+[10-Jun-2022 19:30:22 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[10-Jun-2022 19:30:37 America/Guayaquil] PHP Warning:  A non-numeric value encountered in /home3/merjuri/public_html/app/guardar_iva.php on line 7
+[10-Jun-2022 19:35:04 America/Guayaquil] PHP Warning:  A non-numeric value encountered in /home3/merjuri/public_html/app/guardar_iva.php on line 7
+[10-Jun-2022 19:36:14 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[16-Jun-2022 07:15:24 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[16-Jun-2022 07:15:26 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[16-Jun-2022 07:15:40 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[16-Jun-2022 07:17:21 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[16-Jun-2022 07:20:43 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[16-Jun-2022 07:21:04 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[16-Jun-2022 07:21:05 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[16-Jun-2022 07:21:05 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[16-Jun-2022 07:21:48 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[16-Jun-2022 07:23:52 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[16-Jun-2022 07:27:43 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[16-Jun-2022 07:27:45 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[16-Jun-2022 07:28:55 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[16-Jun-2022 07:28:56 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[16-Jun-2022 07:32:30 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[16-Jun-2022 07:39:14 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[20-Jun-2022 20:11:55 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[20-Jun-2022 20:11:56 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[20-Jun-2022 20:36:09 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[20-Jun-2022 20:36:11 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[20-Jun-2022 20:36:26 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[20-Jun-2022 20:36:27 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[20-Jun-2022 20:36:30 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[20-Jun-2022 20:55:23 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[20-Jun-2022 20:55:59 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[20-Jun-2022 20:56:00 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[20-Jun-2022 20:56:10 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[20-Jun-2022 20:56:32 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[20-Jun-2022 20:56:36 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[20-Jun-2022 20:59:19 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[20-Jun-2022 20:59:20 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[20-Jun-2022 20:59:22 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[20-Jun-2022 20:59:43 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[20-Jun-2022 20:59:46 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[20-Jun-2022 22:38:59 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/modificarPagoCasoJuridico.php on line 13
+[20-Jun-2022 22:39:01 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/modificarPagoCasoJuridico.php on line 13
+[01-Jul-2022 11:13:51 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[01-Jul-2022 11:35:53 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[01-Jul-2022 11:35:54 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[01-Jul-2022 11:36:48 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[01-Jul-2022 11:36:49 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[01-Jul-2022 11:37:08 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[01-Jul-2022 11:58:04 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[01-Jul-2022 11:58:05 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[01-Jul-2022 12:04:50 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[01-Jul-2022 12:16:20 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[01-Jul-2022 12:16:21 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[01-Jul-2022 12:30:12 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[01-Jul-2022 12:30:44 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[01-Jul-2022 12:30:45 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[01-Jul-2022 12:31:24 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[01-Jul-2022 12:31:25 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[01-Jul-2022 12:31:25 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[04-Jul-2022 11:36:10 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[04-Jul-2022 11:37:40 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[04-Jul-2022 11:37:59 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[04-Jul-2022 11:38:52 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[04-Jul-2022 11:39:15 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[04-Jul-2022 11:40:47 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[05-Jul-2022 20:59:03 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[06-Jul-2022 07:47:34 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[06-Jul-2022 21:10:22 America/Guayaquil] PHP Warning:  A non-numeric value encountered in /home3/merjuri/public_html/app/guardar_iva.php on line 7
+[07-Jul-2022 07:44:09 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[07-Jul-2022 07:48:41 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[07-Jul-2022 07:49:04 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[07-Jul-2022 08:19:36 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[07-Jul-2022 08:20:30 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 28
+[07-Jul-2022 11:05:34 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[07-Jul-2022 11:05:37 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[07-Jul-2022 11:15:12 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[07-Jul-2022 11:26:10 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[07-Jul-2022 11:26:11 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[07-Jul-2022 11:36:02 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[07-Jul-2022 17:20:11 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarUsuario.php on line 32
+[07-Jul-2022 17:35:52 America/Guayaquil] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/merjuri/public_html/app/guardarUsuario.php:32) in /home3/merjuri/public_html/app/guardarUsuario.php on line 40
+[11-Jul-2022 13:21:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/merjuri/public_html/app/guardarAsignarAbogado.php on line 23
+[11-Jul-2022 08:21:50 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarAsignarAbogado.php on line 14
+[11-Jul-2022 08:22:32 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarAsignarAbogado.php on line 14
+[11-Jul-2022 08:23:25 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarAsignarAbogado.php on line 14
+[11-Jul-2022 13:32:09 UTC] PHP Parse error:  syntax error, unexpected '/', expecting end of file in /home3/merjuri/public_html/app/guardarAsignarAbogado.php on line 23
+[11-Jul-2022 14:12:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/merjuri/public_html/app/guardarExpediente.php on line 2
+[11-Jul-2022 09:12:05 America/Guayaquil] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/merjuri/public_html/app/guardarExpediente.php:1) in /home3/merjuri/public_html/app/guardarExpediente.php on line 41
+[11-Jul-2022 14:13:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/merjuri/public_html/app/guardarExpediente.php on line 2
+[11-Jul-2022 09:13:18 America/Guayaquil] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/merjuri/public_html/app/guardarExpediente.php:1) in /home3/merjuri/public_html/app/guardarExpediente.php on line 41
+[11-Jul-2022 17:47:06 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarDetalleTipoCaso.php on line 9
+[11-Jul-2022 17:47:34 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarDetalleTipoCaso.php on line 9
+[11-Jul-2022 17:48:36 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarDetalleTipoCaso.php on line 9
+[11-Jul-2022 17:49:05 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/merjuri/public_html/app/guardarDetalleTipoCaso.php on line 11
+[11-Jul-2022 23:16:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/merjuri/public_html/app/guardarExpediente.php on line 2
+[11-Jul-2022 18:16:54 America/Guayaquil] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/merjuri/public_html/app/guardarExpediente.php:1) in /home3/merjuri/public_html/app/guardarExpediente.php on line 41
+[25-Aug-2022 06:12:34 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[25-Aug-2022 06:12:34 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[25-Aug-2022 06:12:34 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[25-Aug-2022 14:16:06 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[25-Aug-2022 14:16:06 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[25-Aug-2022 14:16:06 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[28-Aug-2022 19:43:08 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[28-Aug-2022 19:43:08 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[28-Aug-2022 19:43:08 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[28-Aug-2022 19:59:44 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[28-Aug-2022 19:59:44 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[28-Aug-2022 19:59:44 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[30-Aug-2022 22:56:19 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[30-Aug-2022 22:56:19 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[30-Aug-2022 22:56:19 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 14:55:59 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 14:55:59 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 14:55:59 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 14:56:01 America/Guayaquil] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/merjuri/public_html/ENVIAR_CORREOS/env_pass_cli_correo.php:38) in /home/merjuri/public_html/app/guardarClientes.php on line 33
+[31-Aug-2022 15:21:53 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 15:21:53 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 15:21:53 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 15:21:55 America/Guayaquil] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/merjuri/public_html/ENVIAR_CORREOS/env_pass_cli_correo.php:38) in /home/merjuri/public_html/app/guardarClientes.php on line 33
+[31-Aug-2022 15:24:33 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 15:24:33 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 15:24:33 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 15:24:35 America/Guayaquil] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/merjuri/public_html/ENVIAR_CORREOS/env_pass_cli_correo.php:38) in /home/merjuri/public_html/app/guardarClientes.php on line 33
+[31-Aug-2022 15:42:58 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 15:42:58 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 15:42:58 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 15:43:00 America/Guayaquil] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/merjuri/public_html/ENVIAR_CORREOS/env_pass_cli_correo.php:38) in /home/merjuri/public_html/app/guardarClientes.php on line 33
+[31-Aug-2022 16:12:10 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 16:12:10 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 16:12:10 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 16:12:12 America/Guayaquil] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/merjuri/public_html/ENVIAR_CORREOS/env_pass_cli_correo.php:38) in /home/merjuri/public_html/app/guardarClientes.php on line 33
+[31-Aug-2022 16:23:33 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 16:23:33 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 16:23:33 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 16:23:35 America/Guayaquil] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/merjuri/public_html/ENVIAR_CORREOS/env_pass_cli_correo.php:38) in /home/merjuri/public_html/app/guardarClientes.php on line 33
+[31-Aug-2022 16:24:23 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 16:24:23 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 16:24:23 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 16:24:25 America/Guayaquil] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/merjuri/public_html/ENVIAR_CORREOS/env_pass_cli_correo.php:38) in /home/merjuri/public_html/app/guardarClientes.php on line 33
+[31-Aug-2022 16:24:35 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 16:24:35 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 16:24:35 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 16:24:41 America/Guayaquil] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/merjuri/public_html/ENVIAR_CORREOS/env_pass_cli_correo.php:38) in /home/merjuri/public_html/app/guardarClientes.php on line 33
+[31-Aug-2022 17:14:35 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 17:14:35 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 17:14:35 America/Guayaquil] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/merjuri/public_html/ENVIAR_CORREOS/PHPMailer.php on line 3631
+[31-Aug-2022 20:15:34 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/merjuri/public_html/app/guardarClientes.php on line 25

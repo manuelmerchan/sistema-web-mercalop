@@ -1,0 +1,3 @@
+nombre BD: merjuri_mercalop
+usu: merjuri_Mercalop
+clave: Root_321*_Mercalop

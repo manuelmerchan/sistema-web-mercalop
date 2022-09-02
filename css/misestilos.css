@@ -1,0 +1,434 @@
+.delimitador{
+  border-left: 1px solid rgb(237, 237, 237);
+  border-right: 1px solid rgb(237, 237, 237);
+}
+.contenedor{
+    background:rgba(255, 255, 255);
+    margin-top: -30px;
+    padding-top: 31px;
+    border-left: 1px solid rgb(182, 181, 181);
+    border-right: 1px solid rgb(182, 181, 181);
+}
+
+.form_titulo{
+    font-weight: normal;
+    font-family: sans-serif;
+    color: #171717;
+    text-align: center;
+    padding: 5px 0;
+}
+ .form_titulo span{
+    color: #b0afad;
+}
+
+.form{
+    background:rgba(161, 159, 245, 0.19);
+    border: 1px solid #8b8b8b;
+    -webkit-box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.75);
+    width: 90%;
+    max-width: 750px;
+    margin: auto;
+    padding: 5px 35px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 3px;
+}
+.form2{
+  background:rgba(161, 159, 245, 0.19);
+  border: 1px solid #8b8b8b;
+  -webkit-box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.75);
+    width: 90%;
+    max-width: 900px;
+    margin: auto;
+    padding: 5px 35px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 3px;
+}
+.form3{
+  background:rgba(161, 159, 245,0.19);
+  border: 1px solid #8b8b8b;
+  -webkit-box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.75);
+    width: 90%;
+    max-width: 380px;
+    margin: auto;
+    padding: 5px 35px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 3px;
+}
+.form hr{
+  height: 1px;
+  background: #ffbd28;
+}
+.form2 hr{
+  height: 1px;
+  background: #ffbd28;
+}
+.form3 hr{
+  height: 1px;
+  background: #ffbd28;
+}
+.content_cajas{
+    height: 85px;
+}
+.input_cotiza{
+  padding: 6px;
+  margin-bottom: 10px;
+  height: 30px;
+  font-size: 16px;
+}
+.content_cajas_cotiza{
+    height: 55px;
+}
+
+.form_label{
+    display: block;
+    color: #171717;
+    font-size: 16px;
+    font-family: roboto;
+    position: relative;
+    padding-left: 5px;
+}
+
+.form_input, .form_textarea{
+    width: 100%;
+    background: rgba(0,0,0,.7);
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #ffbd28;
+    padding: 12px;
+    margin-bottom: 20px;
+    border-radius: 2px;
+    font-size: 18px;
+    color: #FFFFFF;
+    font-family: roboto;
+}
+
+.form_input:hover, .form_textarea:hover{
+    border-bottom: 2px solid #ffbd28;
+
+}
+.form_input:focus,.form_textarea:focus{
+    border: 1px solid #ffbd28;
+    border-bottom: 2px solid #ffbd28;
+
+}
+
+.form_textarea{
+    resize: vertical;
+    max-height: 150px;
+    min-height: 50px;
+}
+
+.btn_submit{
+    width: 100%;
+    font-family: Roboto;
+    outline: none;
+    background: #e6e6e6;
+    font-size: 16px;
+    border: none;
+    color: #262626;
+    padding: 15px 0;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #068a37;
+    transition: all .5s ease;
+}
+
+.btn_cancel{
+    width: 100%;
+    font-family: Roboto;
+    outline: none;
+    background: #e6e6e6;
+    font-size: 16px;
+    border: none;
+    color: #262626;
+    padding: 15px 0;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #ba3906;
+    transition: all .5s ease;
+}
+
+.btn_submit:hover{
+    border: 1px solid #0cc952;
+    background: #c3e4cf;
+}
+.btn_cancel:hover{
+    border: 1px solid #d92626;
+    background: #dfc5c5;
+}
+.pag_inicio{
+  height: calc(100vh - 102px);
+}
+
+
+/* ################# checked ################## */
+.labelt {
+font-weight: 600;
+color: #998787;
+margin-bottom: 11px;
+width: 100%;
+float: left;
+cursor: pointer;
+padding: 0 0.6em;
+box-sizing: border-box;
+background: #2d2d2d;
+transition: all 0.5s ease 0s;
+}
+.checked{
+display: none;
+}
+
+.checked + .labelt {
+line-height: 3em;
+}
+
+.checked:disabled + .labelt {
+color: #ccc !important;
+cursor: not-allowed;
+}
+
+.checked:checked:disabled + .labelt:after {
+border-color: #ccc;
+}
+
+.checked + .labelt:before {
+content: "";
+width: 26px;
+height: 26px;
+float: left;
+margin-right: 0.5em;
+border: 2px solid #ccc;
+background: #fff;
+margin-top: 0.5em;
+}
+
+.checked:checked + .labelt {
+background: #c1eec2;
+}
+
+
+.checked:checked + .labelt:after {
+content: "";
+width: 12px;
+height: 6px;
+border: 4px solid #0fbf12;
+float: left;
+margin-left: -1.95em;
+border-right: 0;
+border-top: 0;
+margin-top: 1em;
+transform: rotate(-55deg);
+}
+
+.checked:checked + .labelt:before {
+border-color: #0fbf12;
+}
+
+.checked:checked:disabled + .labelt {
+background: #ccc;
+color: #fff !important;
+}
+
+.checked:checked:disabled + .labelt:before {
+border-color: #bdbdbd;
+}
+
+@media (max-width: 650px) {
+.content {
+  width: 100%;
+}
+}
+.descripc{
+  height: 105px
+}
+/* ################## barra inicio ################### */
+.cc_formulario_hr{
+    width: 100%;
+    border: solid 1px #D3D3D3;
+}
+
+.ccf_cabecera_pantalla{
+    background: #ffbd28;
+    height: 50px;
+    width: 100%;
+    border-bottom: 1px solid #D2D2D2;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ccfcp_contenedor_titulo{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 5px;
+    margin: 0px 10px;
+    color: #000;
+}
+.ccfcp_ct_icono{
+    width: auto;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: #2a2a2a;
+}
+.ccfcp_ct_titulo{
+    width: auto;
+    height: 30px;
+    margin-top: -25px;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: #2a2a2a;
+    margin-left: 15px;
+}
+.ccfcp_ct_titulo2{
+    width: auto;
+    height: 30px;
+    margin-top: 15px;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: #2a2a2a;
+    margin-left: 15px;
+}
+.ccfcp_ct_boton{
+    width: auto;
+}
+
+.camino{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.camino_cuerpo{
+    /* background: rgba(11, 186, 223, .5); */
+    width: auto;
+    height: auto;
+    padding: 0px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    float: right;
+    border-radius: 5px;
+}
+.camino_cuerpo_opcion{
+    height: 35px;
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 10px;
+    border-radius: 3px;
+}
+.camino_cuerpo .camino_cuerpo_opcion a{
+    text-decoration: none;
+    color: #000;
+    font-size: 14px;
+    height: 100%;
+    padding-top: 8px;
+}
+.camino_cuerpo .camino_cuerpo_opcion i{
+    margin-top: 3px;
+    color: #2a2a2a;
+}
+/*.camino_cuerpo .camino_cuerpo_opcion:hover{
+    transition: all 1s;
+    background: #e0d66c;
+    color: #2e2e2e;
+    cursor: pointer;
+}
+.camino_cuerpo .camino_cuerpo_opcion a:hover{
+    transition: all 300ms;
+    color: #2e2e2e;
+    cursor: pointer;
+}*/
+.active_camino{
+    /* /background: #0EB9DD;/ */
+    border-bottom: 2px solid #0988A3;
+    /* /border-right: 2px solid #0988A3;/
+    /border-top: 2px solid #0988A3;/ */
+}
+.camino_cuerpo i{
+    color: #646464;
+    margin: 0px 5px;
+    margin-top: 10px;
+}
+
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  margin: 0;
+  margin-bottom: 40px;
+}
+.footer2 {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+}
+  /* ############## ASIG ABOGADO  ############## */
+
+  .contet_asig{
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content:center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 30px 0px;
+    padding-bottom: 20px;
+  }
+  .contet_asig hr{
+    height: 1px;
+    background: #ffbd28;
+  }
+
+  .asignador{
+    background:rgba(203, 202, 202, 0.19);
+    border: 1px solid #8b8b8b;
+    -webkit-box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.75);
+      width: 40%;
+      height: auto;
+      border-radius: 5px;
+      /* border: 1px solid #1d1d1d;
+      box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.22); */
+  }
+  .cabecera_asig{
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  .cabecera_asig h3{
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    color: #1b1b1b;
+
+  }
+  .formu_asig{
+    width: 100%;
+    height: 180px;
+    padding: 5px;
+    margin: 10px 0px;
+  }
